@@ -1,0 +1,14 @@
+.venv/
+*.png
+*.out
+1/
+2/
+4/
+8/
+16/
+fast1/
+fast2/
+fast4/
+fast8/
+fast16/
+
